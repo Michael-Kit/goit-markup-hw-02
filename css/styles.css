@@ -61,7 +61,27 @@ color: #434455;
 color: #404bbf;
 }
 
+.hero-titel{
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
+}
+
+.button-btn{
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #fff;
+}
+
 .page-footer{
  background-color: #2e2f42;
 }
 
+.hero-page{
+ background-color: #2e2f42;
+}
