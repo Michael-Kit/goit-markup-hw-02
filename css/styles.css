@@ -70,12 +70,18 @@ text-align: center;
 color: #fff;
 }
 
-.button-btn{
+
+.button-btn {
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
+background-color: #4d5ae5;
+}
+
+.button-btn:hover{
+background-color: #404bbf;
 }
 
 
@@ -100,6 +106,14 @@ color: #434455;
 
 .pictures{
 background-color: #f4f4fd;
+text-align: center;
+}
+
+.pictures-items {
+background-color: #fff;
+}
+.pictures-folio{
+    background-color: #fff;
 }
 
 .footer-text{
